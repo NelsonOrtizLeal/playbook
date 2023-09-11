@@ -1,0 +1,17 @@
+{
+    "name": "esm-syntax",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "type": "module",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "v1": "node main.js",
+      "v2": "node main_2.js",
+      "v3": "node main_module.js"
+    },
+    "keywords": ["EcmaScript", "Modules", "ESM"],
+    "author": "Nelson Ysain Ortiz Leal",
+    "license": "ISC"
+  }
+  
