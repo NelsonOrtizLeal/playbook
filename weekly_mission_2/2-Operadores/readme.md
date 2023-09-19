@@ -1,6 +1,6 @@
 # Introduccion a Operadores en JavaScript
 
-Ejemplos desaddollados:
+Ejemplos desarrollados:
 
 1. For Each para imprimir elementos de una lista
 2. For Each para calcular la suma de todos los elementos de una lista
